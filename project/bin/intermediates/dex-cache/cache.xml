@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.1_ce43e7d5b00156c30b11258a52bb6981b4efe957\classes.dex" />
+    </item>
+    <item
+        jar="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fbd4124044e40f8a657eb8ea588b4002bc2583f8">
+        <dex dex="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2ea63b81d09a92e35656d33f687f05e4c7115d2b\classes.dex" />
+    </item>
+    <item
+        jar="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_b2342448933961dbc86aecbb5c2afc446bc73bb6\classes.dex" />
+    </item>
+    <item
+        jar="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8465fad6dd05b954b82bd5ff22edd80992808561">
+        <dex dex="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-23.1.1_9037f0d5b3769f2018605bd4b732546f31e820c0\classes.dex" />
+    </item>
+    <item
+        jar="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_679e26a6da1bbb90498b5050f53d35baef86fdc2\classes.dex" />
+    </item>
+    <item
+        jar="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_85f6bcb0d1601f9446e7fdf1a12e71976b7fa93b\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_160e21806fe4fcbe2b20c34d1bbde421f69a17ae\classes.dex" />
+    </item>
+    <item
+        jar="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_6dbeafefe32e5ddc83f6e0e13a9918f4685f2fb9\classes.dex" />
+    </item>
+    <item
+        jar="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_7bb20274a39d06f388129342eac455681939ef50\classes.dex" />
+    </item>
+    <item
+        jar="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2eeb027ce2d0cc17a435de7fde7ac1be578eafc3">
+        <dex dex="D:\development\DroidPlugin\project\TestPlugin\bin\intermediates\transforms\dex\debug\folders\1000\10\instant-run_289ac6e146977ea0e359f4de69214f2b0eff91ba\classes.dex" />
+    </item>
+
+</items>
